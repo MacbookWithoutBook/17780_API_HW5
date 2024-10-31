@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Example Usage:","h":"INIParser.load(String)","d":"Section","u":"INIParser.html#example-usage--heading1"},{"l":"Example Usage:","h":"class INIParser","d":"Section","u":"INIParser.html#example-usage--heading"}];updateSearchResults();
