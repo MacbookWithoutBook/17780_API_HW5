@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Collation","l":"Collation"},{"p":"Collation","l":"CollationClient"},{"p":"Collation","l":"LocaleCategory"}];updateSearchResults();
